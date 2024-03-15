@@ -1,6 +1,5 @@
 {
-  "homepage":"https://loukya-7.github.io/Portfolio_Website/",
-
+  "homepage": "https://loukya-7.github.io/Portfolio_Website",
   "name": "portfolio-loukya",
   "private": true,
   "version": "0.0.0",
@@ -14,7 +13,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "customize-cra": "^1.0.0",
     "react": "^18.2.0",
+    "react-app-rewired": "^2.2.1",
     "react-dom": "^18.2.0",
     "react-icons": "^5.0.1",
     "react-router-dom": "^6.22.3"
