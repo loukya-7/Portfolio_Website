@@ -7,7 +7,7 @@ const Navbar = () => {
   const [menu, setMenu] = useState(false);
   
   return (
-    <>l
+    <>
         <nav className="fixed top-0 left-0 right-0 w-screen h-24 border-b border-black flex justify-around items-center shadow-md" style={{ background: "white" }}>
 
         <div className="p-2">
